@@ -1,1 +1,1 @@
-# PAPER-IS-CRUMPLED
+# project-C24-template
